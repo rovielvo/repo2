@@ -1,2 +1,2 @@
 # repo2
-test repo hello world hoi
+test repo hello world
